@@ -44,5 +44,9 @@ PIM shoud be enabled all LAN interfaces that you use Multicast routing but IGMP 
 After completing al configuration than Lets Play!
 
 
+https://user-images.githubusercontent.com/111356277/184886264-d5ff9d64-5dba-471f-823d-a5cb22d93138.mp4
+
+
+
 
 
