@@ -26,20 +26,22 @@ For multicast routing, Aruba Silver-Peak Solution does not need any external Ren
 
 
 
-HQ - Multicast Configuration
+##HQ - Multicast Configuration
 <img width="1387" alt="image" src="https://user-images.githubusercontent.com/111356277/184877368-0fd3d346-c135-4ca0-a942-dfd9ae17e1ca.png">
 
 PIM shoud be enabled all LAN interfaces that you use Multicast routing but IGMP should be enabled only receivers on your LAN.
 <img width="301" alt="image" src="https://user-images.githubusercontent.com/111356277/184879275-6c861db1-f82f-460c-a14e-4dba774d8224.png">
 
-ANKARA - Multicast Configuration 
+##ANKARA - Multicast Configuration 
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/111356277/184880578-c8becf87-9a02-4f47-a048-cced9ce4b571.png">
 
-ANTALYA - Multicast Configuration
+##ANTALYA - Multicast Configuration
 <img width="1414" alt="image" src="https://user-images.githubusercontent.com/111356277/184880773-74f49e15-f798-443f-96bc-d6b6b14362e7.png">
 
-IZMIR - Multicast Configuration
+##IZMIR - Multicast Configuration
 <img width="1447" alt="image" src="https://user-images.githubusercontent.com/111356277/184880927-cf717cfc-da1b-4f95-97ea-c8b757eab911.png">
+
+After completing al configuration than Lets Play!
 
 
 
